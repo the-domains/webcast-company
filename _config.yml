@@ -2,6 +2,7 @@ name: Webcast Company
 favicon: null
 layout_spectrum: 0.4412767437752336
 typography_spectrum: 0.49458
+title: Webcast Company
 cta:
   domain: null
   bucket: null
